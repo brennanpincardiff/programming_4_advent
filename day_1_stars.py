@@ -1,5 +1,6 @@
 # Stars for the first day of Advent
 import turtle
+# make a function called draw_star
 def draw_star(size, color):
     angle = 130
     turtle.fillcolor(color)
@@ -13,8 +14,9 @@ def draw_star(size, color):
     turtle.end_fill()
     return
 
+# now draw the stars
 draw_star(70, "red")
 draw_star(35, "green")
 
 print("Happy 1st Day of Advent")
-input()
+turtle.exitonclick()
