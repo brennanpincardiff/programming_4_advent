@@ -4,7 +4,7 @@ Coding and circuity 'gifts' for Advent to provide an alternative to chocolate. T
 1. Using turtle to draw a star
 2. Using turtle to draw a Christmas Tree (can we add yesterdays star to the top of the tree?)
 3. Using turtle to add baubles to the tree (can we make them flash?)
-4.
+4. A Christmas script for the micro:bit with python
 5.
 6.
 
