@@ -1,3 +1,4 @@
+# go to: https://python.microbit.org/v/1
 # import microbit package
 from microbit import *
 
@@ -39,3 +40,5 @@ while True:
         display.scroll("Happy Christmas")
     else:
         display.show(tree)
+        
+# download and put on the micro:bit
