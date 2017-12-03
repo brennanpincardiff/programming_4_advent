@@ -1,4 +1,5 @@
 # go to: https://python.microbit.org/v/1
+# you might want to load your script from yesterday...
 # import microbit package
 from microbit import *
 
@@ -24,9 +25,9 @@ while True:
         display.show(stars, delay=200)
         display.show(stars, delay=200)
     elif button_b.is_pressed():
-        display.scroll("Happy Christmas")
-    else:
         display.show(trees, delay=200)
         display.show(trees, delay=200)  
+    else:
+        display.show(Image.HAPPY)
         
 # download and put on the micro:bit
