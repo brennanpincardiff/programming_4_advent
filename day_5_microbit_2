@@ -1,4 +1,6 @@
 # go to: https://python.microbit.org/v/1
+# you might want to load your script from yesterday
+
 # import microbit package
 from microbit import *
 
@@ -18,5 +20,5 @@ while True:
     else:
         display.show(Image.SURPRISED)
         
-        
+# save your script onto the computer and then....         
 # download and put on the micro:bit
