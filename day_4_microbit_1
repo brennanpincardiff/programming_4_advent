@@ -10,6 +10,6 @@ while True:
     elif button_b.is_pressed():
         display.scroll("Happy Christmas")
     else:
-        display.show(Image.HAPPY)
-        
-# download and put on the micro:bit
+        display.show(Image.SAD)
+# save your script onto the computer and then....        
+# download and transfer onto the micro:bit
