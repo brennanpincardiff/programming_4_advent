@@ -1,4 +1,5 @@
 - [https://gist.github.com/jurandysoares/4380835]
 - [https://stackoverflow.com/questions/26356543/turtle-graphics-draw-a-star]
 - [https://stackoverflow.com/questions/24636271/python-turtle-draw-concentric-circles-using-turtles-circle-method]
-- [http://microbit-micropython.readthedocs.io/en/latest/]
+- [Python & micro:bit documentation](http://microbit-micropython.readthedocs.io/en/latest/)
+- [3D plywood tree for circuits and programming](http://www.pneumaticaddict.com/2014/12/3-d-plywood-trees.html)
