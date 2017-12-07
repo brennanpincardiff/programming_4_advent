@@ -12,8 +12,8 @@
 # Summary of Steps
 1. Assemble tree 
 2. Put LED through the holes - wires may need to be stretched a little. 
-3. When LED is through the hole use female connector to LED to hold in place. 
-4. Connect male end to the breadboard.  
+3. When LED is through the hole use female connectors to LED to hold in place. 
+4. Connect male end of connector to the breadboard.  
 5. IMPORTANT: LED are directional - you need to put long end to the positive power.
 6. Add resistor to the circuit from the positive power to the first LED. 
 7. Add power: connect battery to the breadboard - put red into positive; black into negative
