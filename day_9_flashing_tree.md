@@ -1,4 +1,4 @@
-# Day 8 - Let's make our Christmas Tree flash
+# Day 9 - Let's make our Christmas Tree flash
 
 # Requirements
 1. A two part wooden tree
