@@ -16,8 +16,20 @@ Coding and circuity 'gifts' for Advent to provide an alternative to chocolate. T
 13. Control LED settings with button (on, blink, pulse, off)
 14. Go keyboard (and mains power?) independent
 15. Perhaps control with tablet via bluetooth
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
 
-Future: Pi Camera - pictures, alter, add stars/antlers, add words (Custom Christams Card?)
-Future: Sonic Pi - christmas carol?
+16 - 20: Pi Camera - pictures, alter, add stars/antlers, add words (Custom Christams Card?)
+21 - 23: Sonic Pi - christmas carol?
+
+Possible: introduce github
+Possible: using console...
 
 CONTRIBUTIONS WELCOME!!! Please add issues or links to other good resources....
