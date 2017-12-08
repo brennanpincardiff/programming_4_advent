@@ -9,6 +9,15 @@ Coding and circuity 'gifts' for Advent to provide an alternative to chocolate. T
 6. Using python to programme micro:bit make the tree sparkle
 7. Using python to programme micro:bit two animations
 8. Light up a wooden Christams Tree with LED....
-9. Make the tree flash with Pi Zero and script...
+9. Make the tree flash with Pi Zero and python script...
+10. Make the LEDs flash with Pi Zero and python script in groups...
+11. Replace one of the LEDs (top) with RGBLED - vary colour Red, Green, Blue
+12. Pulse RGBLED
+13. Control LED settings with button (on, blink, pulse, off)
+14. Go keyboard (and mains power?) independent
+15. Perhaps control with tablet via bluetooth
+
+Future: Pi Camera - pictures, alter, add stars/antlers, add words (Custom Christams Card?)
+Future: Sonic Pi - christmas carol?
 
 CONTRIBUTIONS WELCOME!!! Please add issues or links to other good resources....
