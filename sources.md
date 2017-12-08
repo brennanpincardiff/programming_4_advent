@@ -5,5 +5,5 @@
 - [3D plywood tree for circuits and programming](http://www.pneumaticaddict.com/2014/12/3-d-plywood-trees.html)
 - [Another option on tree for circuits](http://www.instructables.com/id/DIY-Mini-Wooden-Christmas-Tree/)
 - [Info about e-textiles in case I do some of this](https://www.kitronik.co.uk/blog/e-textiles-wearables-tutorials-resources/)
-- [Cat Lammin's website where we first learned how to build and programme a circuit using Pi and python](https://catlamin.com/2017/04/16/an-easter-gift-rpi-beginners-worksheet/)
+- [Cat Lamin's website where we first learned how to build and programme a circuit using Pi and python](https://catlamin.com/2017/04/16/an-easter-gift-rpi-beginners-worksheet/)
 - [Documentation about Pi GPIO](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
