@@ -14,9 +14,9 @@
 2. Parallel connection - resistor from + to one of the rows above; long LED ends to resistor rail; short LED ends to negative rail (-)
 3. But instead of battery, connect to Pi Zero - from GPIO 21 to positive on breadboard (+); from GND to negative on breadboard
 4. Check [Pi GPIO Schematic](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2) to be sure of numbers 
-3. Open Python 3 IDE
-4. Open a new file and save it with a name... e.g. xmas_light.py
-5. Here is a simple script
+5. Open Python 3 IDE
+6. Open a new file and save it with a name... e.g. xmas_light.py
+7. Here is a simple script
 ``` python
 from gpiozero import LED
 from time import sleep
@@ -29,8 +29,8 @@ while True:
   leds_on.off()
   sleep(1)
 ```
-6. Save the file 
-7. Run the file using Run module. 
+8. Save the file 
+9. Run the file using Run module. 
 
 
 [Inspiration and Hat Tip to Cat Lamin](https://catlamin.com/2017/04/16/an-easter-gift-rpi-beginners-worksheet/)
