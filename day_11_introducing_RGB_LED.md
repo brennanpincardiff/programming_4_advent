@@ -5,7 +5,7 @@
 
 # Summary of Steps
 1. __Some basic info on an RGB-LED__
-When you look at is first is looks more boring than other LEDs which are at least colourful. 
+When you look at it first is looks more boring than other LEDs which are at least colourful. 
 However, the extra wires that go into the LED show that this is something more useful. 
 inside the usual LED package, there are actually three LEDs, one red, one green and yes, one blue. 
 By controlling the brightness of each of the individual LEDs you can mix pretty much any color you want.
