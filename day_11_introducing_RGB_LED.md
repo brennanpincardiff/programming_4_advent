@@ -1,4 +1,4 @@
-# Day 10 - Introducting an RGB LED (no code today)
+# Day 11 - Introducting an RGB LED (no code today)
 
 # Requirements
 1. Just an RGB LED is essential
