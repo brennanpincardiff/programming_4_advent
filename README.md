@@ -16,10 +16,10 @@ Coding and circuity 'gifts' for Advent to provide an alternative to chocolate. T
 13. Control LED settings with button (on, blink, pulse, off)
 14. Go keyboard (and mains power?) independent
 15. Perhaps control with tablet via bluetooth
-16.
+16. Blinkt from [Pimoroni](https://learn.pimoroni.com/blinkt)
 17.
 18.
-19.
+19. Something with Pi Camera?
 20.
 21.
 22.
